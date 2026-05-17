@@ -52,5 +52,3 @@ Alguns pontos explorados no projeto:
 * Relação entre xG e gols marcados
 
 
-GitHub: coloque_seu_github_aqui
-
