@@ -1,5 +1,3 @@
-# Análise da Final da Copa do Mundo de 2022
-
 # Análise da Final da Copa do Mundo 2022
 
 Projeto de análise de dados da final da Copa do Mundo FIFA 2022 entre Argentina e França utilizando Python e Jupyter Notebook.
